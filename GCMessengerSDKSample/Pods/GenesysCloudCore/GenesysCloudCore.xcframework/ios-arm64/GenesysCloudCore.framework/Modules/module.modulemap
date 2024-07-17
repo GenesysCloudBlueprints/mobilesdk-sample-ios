@@ -1,0 +1,11 @@
+framework module GenesysCloudCore {
+  umbrella header "GenesysCloudCore.h"
+  export *
+
+  module * { export * }
+}
+
+module GenesysCloudCore.Swift {
+  header "GenesysCloudCore-Swift.h"
+  requires objc
+}

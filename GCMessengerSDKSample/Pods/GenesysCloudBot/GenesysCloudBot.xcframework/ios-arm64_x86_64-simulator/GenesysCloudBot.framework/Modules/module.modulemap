@@ -1,0 +1,6 @@
+framework module GenesysCloudBot {
+  umbrella header "GenesysCloudBot.h"
+  export *
+
+  module * { export * }
+}

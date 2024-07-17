@@ -1,0 +1,6 @@
+framework module GenesysCloudBold {
+  umbrella header "GenesysCloudBold.h"
+  export *
+
+  module * { export * }
+}

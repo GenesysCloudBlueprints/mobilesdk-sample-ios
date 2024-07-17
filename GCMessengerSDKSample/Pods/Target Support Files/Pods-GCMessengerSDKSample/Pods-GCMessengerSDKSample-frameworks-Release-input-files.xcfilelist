@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-GCMessengerSDKSample/Pods-GCMessengerSDKSample-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloud/Core/GenesysCloud.framework/GenesysCloud
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloudBold/GenesysCloudBold.framework/GenesysCloudBold
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloudBot/GenesysCloudBot.framework/GenesysCloudBot
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloudCore/GenesysCloudCore.framework/GenesysCloudCore
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloudMessenger/GenesysCloudMessenger.framework/GenesysCloudMessenger
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GenesysCloudMessengerTransport/MessengerTransport.framework/MessengerTransport
