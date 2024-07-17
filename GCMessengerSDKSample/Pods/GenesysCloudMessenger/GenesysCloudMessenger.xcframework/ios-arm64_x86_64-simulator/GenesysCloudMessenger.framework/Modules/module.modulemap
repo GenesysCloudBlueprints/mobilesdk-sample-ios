@@ -1,4 +1,0 @@
-framework module GenesysCloudMessenger {
-  header "GenesysCloudMessenger-Swift.h"
-  requires objc
-}
